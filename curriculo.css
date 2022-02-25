@@ -1,0 +1,9 @@
+body{
+    background-color: black;
+    color: white;
+}
+div{
+    border-style: solid;
+    border-radius: 15px;
+    position: absolute;
+}

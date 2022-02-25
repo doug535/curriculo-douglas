@@ -1,2 +1,1 @@
-# curriculo-douglas
-curriculo para ivan
+# Aqui estara localizado o meu curriculo

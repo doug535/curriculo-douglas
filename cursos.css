@@ -2,26 +2,17 @@ body{
     background-color: black;
     color: white;
 }
-.sobre{
+.entra{
     border-style: solid;
     border-radius: 15px;
     position: absolute;
     top: 5%;
     left: 5%;
 }
-.cursos{
+.oque{
     border-style: solid;
     border-radius: 15px;
     position: absolute;
-    top: 40%;
+    top: 60%;
     left: 60%;
-}
-button{
-    background-color: mediumblue;
-    border: none;
-    padding: 15px;
-    width: 50%;
-    border-radius: 10px;
-    color: white;
-    font-size: 15px;
 }
